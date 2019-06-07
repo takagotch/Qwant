@@ -1,6 +1,6 @@
-### o
+### Qwant
 ---
-
+https://github.com/Qwant/
 
 ```
 ```
